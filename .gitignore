@@ -1,0 +1,9 @@
+venv
+
+app/backend/vitex_auth/migrations
+app/backend/vitex_auth/__pycache__
+
+app/backend/vitex_app/migrations
+app/backend/vitex_app/__pycache__
+
+app/backend/core/__pycache__
